@@ -13,5 +13,6 @@ export class Revista {
     tipoRevista ?: DataCatalogo;
     usuarioRegistro?: Usuario;
     usuarioActualiza?: Usuario
+    estado?:number;
 
 }
